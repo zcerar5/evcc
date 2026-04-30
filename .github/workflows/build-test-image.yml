@@ -1,4 +1,5 @@
 name: Build test image
+run-name: Tessie coarsecurrent test image
 
 on:
   workflow_dispatch:
